@@ -1,2 +1,3 @@
-# my-stuff2
-I am a students from NUS who'd like to learn how to code.
+# My Solved Kattis problems
+
+This is a folder of my solved Kattis problems in Java. I'm using Kattis to practice for CS2030.
